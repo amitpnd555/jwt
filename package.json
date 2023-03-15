@@ -1,0 +1,24 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitpnd555/jwt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitpnd555/jwt/issues"
+  },
+  "homepage": "https://github.com/amitpnd555/jwt#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
